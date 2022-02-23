@@ -1,0 +1,1 @@
+pip install chembl_webresource_client
